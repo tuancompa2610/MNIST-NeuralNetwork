@@ -28,7 +28,7 @@ Finally run model
 `$ python train.py`
 
 ## Model using
-* Neural Network (Neural networks and Deep Learning)[http://neuralnetworksanddeeplearning.com/chap1.html?fbclid=IwAR2a-oB8LXl9CQHU94WuWCAiZ3CFpQS7DTTMAKYdtJTnrUsYEj7Rnq2T1LE]
+* Neural Network [Neural networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html?fbclid=IwAR2a-oB8LXl9CQHU94WuWCAiZ3CFpQS7DTTMAKYdtJTnrUsYEj7Rnq2T1LE)
 
 ## Report
 
